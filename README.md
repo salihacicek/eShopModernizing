@@ -6,12 +6,11 @@ Bu repository, **Engineering Design II** dersi kapsamında geliştirilen yazıl�
 Geleneksel (Legacy) monolitik bir uygulamanın güncel bulut (Cloud) ve konteyner (Container) teknolojileri kullanılarak modernize edilmesi süreçleri araştırılmakta ve Microsoft'un `eShopModernizing` referans projesi üzerinden analizler yapılmaktadır.
 
 ## 👥 Takım Üyeleri
-*(Lütfen buraya takım arkadaşlarınızın isimlerini ekleyin)*
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Meryem Ceyda Günel (Takım Kaptanı)
+2. Tuğba Burgaz
+3. Hatice Gedik
+4. Saliha Çiçek
+5. Hayrunnisa Karaca
 
 ## 📂 Klasör Yapısı
 * `/docs` : TÜBİTAK 2209-B başvuru formu taslakları ve proje sunum içerikleri.

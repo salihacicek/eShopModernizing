@@ -39,5 +39,5 @@ Piyasada modernizasyon amaçlı kullanılan araçlar şunlardır:
 *   **Kapsam Dışında Bırakılanlar:** Ödeme (Payment) sistemlerinin gerçek banka entegrasyonu ve çok karmaşık Event-Bus haberleşme mekanizmaları bilinçli olarak proje kapsamı dışında (kısıt) bırakılmıştır.
 
 ## Slayt 7: Repository URL ve Ekip
-*   Takım GitHub Linki: `[Sizin oluşturduğunuz linki buraya koyun]`
+*   Takım GitHub Linki: `https://github.com/salihacicek/eShopModernizing`
 *   GitHub Projects Kanban Tahtası başarıyla kurulmuş ve iş dağılımları eklenmiştir.
