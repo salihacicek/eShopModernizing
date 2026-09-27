@@ -9,6 +9,7 @@
 *   **Önemi:** Bu problemin çözülmesi, şirketlerin piyasadaki yeniliklere hızlı adapte olmasını (Time-to-market), bulut teknolojilerinin nimetlerinden faydalanmasını ve çökme risklerini minimize etmesini sağlar.
 
 ## Slayt 2: Literatür ve Mevcut Çalışmalar
+*(Ayrıca `research/Sektorel_Projeler.md` dosyasındaki Netflix, Trendyol, Uber gibi gerçek dünya projelerini de bu slaytta mevcut çalışmalar olarak anlatacaksınız.)*
 *(Bunu `research/Literatur.md` dosyasındaki 5 kaynağı baz alarak anlatacaksınız. Anahtar kelimelerimiz: Monolith to Microservices, Strangler Fig Pattern, Containerization)*
 
 ## Slayt 3: Benzer Araç ve Sistemler
