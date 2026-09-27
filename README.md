@@ -14,6 +14,7 @@ Geleneksel (Legacy) monolitik bir uygulamanın güncel bulut (Cloud) ve konteyne
 
 ## 📂 Klasör Yapısı
 * `/docs` : TÜBİTAK 2209-B başvuru formu taslakları ve proje sunum içerikleri.
+* `/docs/Proje_Mimarisi_ve_Roller.md` : Projenin 5 kişilik detaylı görev dağılımı (Sorumluluk Matrisi) ve modernizasyon şeması.
 * `/research` : Literatür taraması, benzer araç analizi ve akademik kaynaklar.
 * `/src` : Modernizasyon adımlarının test edileceği ve kod analizlerinin yapılacağı kaynak klasör.
 
